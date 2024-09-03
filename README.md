@@ -11,6 +11,9 @@ Currently, two official plugins are available:
 # Simple Progress Bar using React and Framer Motion
 This project demonstrates a simple progress bar built with React and Framer Motion. The progress bar visually represents the completion percentage of a task with smooth animations provided by Framer Motion.
 
+## project link
+[https://simple-progress-bar.netlify.app/](https://simple-progress-bar.netlify.app/)
+
 ## Features
 - React: A popular JavaScript library for building user interfaces.
 - Framer Motion: A powerful motion library for React that enables fluid animations and interactions.
