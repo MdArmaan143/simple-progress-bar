@@ -27,7 +27,7 @@ cd simple-progress-bar
 npm install
 
 ## Start the development server:
-npm start
+npm run dev
 
 ## Usage
 Modify the progress state in the component to change the progress value. The progress bar will automatically animate to the new value.
